@@ -1,1 +1,3 @@
-# android_lesson2
+# message-app
+
+Simple message application for Android system
